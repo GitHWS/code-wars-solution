@@ -31,7 +31,7 @@ smash(['hello', 'world', 'this', 'is', 'great']); // 'hello world this is great'
 
 - 결과
 
-> 결과는 맞는데 왜 안되는걸까..? 혹시 응답속도 때문인가..
+> why? 결과는 맞는데 왜 안되는걸까..? 혹시 응답속도 때문인가..
 
 ![image](https://user-images.githubusercontent.com/96808980/172203023-232bab90-6006-42fd-b0de-64992118d7dc.png)
 
@@ -51,6 +51,6 @@ smash(['hello', 'world', 'this', 'is', 'great']); // 'hello world this is great'
 
 - 결과
 
-> 왜 심지어 더 느린데 왜 정답일까..? 🤔
+> why? 왜 심지어 더 느린데 왜 정답일까..? 🤔
 
 ![image](https://user-images.githubusercontent.com/96808980/172204722-0edbea99-dd36-421e-9787-c995de094a0a.png)
