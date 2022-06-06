@@ -19,5 +19,6 @@
 
 ## 문제 풀이 현황
 
-- [Sentence_Smash](https://github.com/GitHWS/code-wars-solution/blob/main/Sentence_Smash.md)
-- [Grasshopper_Summation](https://github.com/GitHWS/code-wars-solution/blob/main/Grasshopper_Summation.md)
+- [Sentence Smash](https://github.com/GitHWS/code-wars-solution/blob/main/Sentence_Smash.md)
+- [Grasshopper Summation](https://github.com/GitHWS/code-wars-solution/blob/main/Grasshopper_Summation.md)
+- [Remove First and Last Character](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_First_and_Last_Character.md)
