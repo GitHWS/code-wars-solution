@@ -23,3 +23,4 @@
 - [Grasshopper Summation](https://github.com/GitHWS/code-wars-solution/blob/main/Grasshopper_Summation.md)
 - [Remove First and Last Character](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_First_and_Last_Character.md)
 - [Square(n) Sum](https://github.com/GitHWS/code-wars-solution/blob/main/Square(n)_Sum.md)
+- [Opposite number](https://github.com/GitHWS/code-wars-solution/blob/main/Opposite_number.md)
