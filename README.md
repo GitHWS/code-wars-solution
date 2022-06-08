@@ -24,3 +24,4 @@
 - [Remove First and Last Character](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_First_and_Last_Character.md)
 - [Square(n) Sum](https://github.com/GitHWS/code-wars-solution/blob/main/Square(n)_Sum.md)
 - [Opposite number](https://github.com/GitHWS/code-wars-solution/blob/main/Opposite_number.md)
+- [Convert a string to array](https://github.com/GitHWS/code-wars-solution/blob/main/Convert_a_string_to_array.md)
