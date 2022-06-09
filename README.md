@@ -25,3 +25,4 @@
 - [Square(n) Sum](https://github.com/GitHWS/code-wars-solution/blob/main/Square(n)_Sum.md)
 - [Opposite number](https://github.com/GitHWS/code-wars-solution/blob/main/Opposite_number.md)
 - [Convert a string to array](https://github.com/GitHWS/code-wars-solution/blob/main/Convert_a_string_to_array.md)
+- [Will you make it](https://github.com/GitHWS/code-wars-solution/blob/main/Will_you_make_it.md)
