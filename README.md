@@ -15,35 +15,6 @@
 
 [template.md](https://github.com/GitHWS/code-wars-solution/blob/main/template.md?plain=1)
 
-```
-# 문제명
-
-## Requirement
-
-<p></p>
-
-  1. 
-  2. 
-  3. 
-
-## Example
-
-```js
-```
-
-<br>
-
-### 첫번째 나의 시도
-
-> why?
-```js
-```
-- 결과
-
-> why?
-
-```
-
 ## 문제 풀이 현황 (일정 시간 초과로 못 풀었을 경우 ❌)
 
 ### 8 kyu
