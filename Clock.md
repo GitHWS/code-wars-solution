@@ -40,7 +40,7 @@ function past(h, m, s){
 
 내 코드보다 한줄로 정리되어 있어 깔끔해보인다...
 
-```
+```js
 function past(h, m, s){
   return ((h*3600)+(m*60)+s)*1000;
 }
