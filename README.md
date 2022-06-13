@@ -31,5 +31,6 @@
 - [Reversed sequence](https://github.com/GitHWS/code-wars-solution/blob/main/Reversed_sequence.md)
 - [Convert a Number to a String](https://github.com/GitHWS/code-wars-solution/blob/main/Convert_a_Number_to_a_String.md)
 - [Return Negative](https://github.com/GitHWS/code-wars-solution/blob/main/Return_Negative.md)
+- [Friend_or_Foe?](https://github.com/GitHWS/code-wars-solution/blob/main/Friend_or_Foe%3F.md)
 
 ### 7 kyu
