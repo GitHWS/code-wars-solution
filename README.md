@@ -34,3 +34,5 @@
 - [Friend_or_Foe?](https://github.com/GitHWS/code-wars-solution/blob/main/Friend_or_Foe%3F.md)
 
 ### 7 kyu
+
+- [Mumbling](https://github.com/GitHWS/code-wars-solution/blob/main/Mumbling.md) ❌
