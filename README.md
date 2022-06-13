@@ -36,3 +36,4 @@
 
 - [Friend_or_Foe?](https://github.com/GitHWS/code-wars-solution/blob/main/Friend_or_Foe%3F.md)
 - [Mumbling](https://github.com/GitHWS/code-wars-solution/blob/main/Mumbling.md) ❌
+- [Ones and Zeros](https://github.com/GitHWS/code-wars-solution/blob/main/Ones_and_Zeros.md)
