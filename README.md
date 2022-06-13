@@ -33,6 +33,7 @@
 - [Covert a Boolean to a String](https://github.com/GitHWS/code-wars-solution/blob/main/Convert_a_Boolean_to_a_String.md)
 - [Return Negative](https://github.com/GitHWS/code-wars-solution/blob/main/Return_Negative.md)
 - [School Paperwork](https://github.com/GitHWS/code-wars-solution/blob/main/School_Paperwork.md)
+- [Coverted Clock to millisecond](https://github.com/GitHWS/code-wars-solution/blob/main/Clock.md)
 
 
 ### 7 kyu
