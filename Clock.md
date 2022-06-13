@@ -34,3 +34,14 @@ function past(h, m, s){
 - 결과
 
 ![image](https://user-images.githubusercontent.com/96808980/173392903-c6c12199-236c-4a70-9968-149bf66715b9.png)
+
+
+### 다른 사람의 코드
+
+내 코드보다 한줄로 정리되어 있어 깔끔해보인다...
+
+```
+function past(h, m, s){
+  return ((h*3600)+(m*60)+s)*1000;
+}
+```
