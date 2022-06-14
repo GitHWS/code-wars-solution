@@ -42,3 +42,4 @@
 - [Mumbling](https://github.com/GitHWS/code-wars-solution/blob/main/Mumbling.md) ❌
 - [Ones and Zeros](https://github.com/GitHWS/code-wars-solution/blob/main/Ones_and_Zeros.md)
 - [List Filtering](https://github.com/GitHWS/code-wars-solution/blob/main/List_Filtering.md)
+- [Shortest Word](https://github.com/GitHWS/code-wars-solution/blob/main/Shortest_Word.md)
