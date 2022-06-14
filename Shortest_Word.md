@@ -31,3 +31,13 @@ function findShort(s){
 - 결과
 
 ![image](https://user-images.githubusercontent.com/96808980/173576225-37018aef-e3d7-4c64-9605-cdbc63f7a2dd.png)
+
+### 다른 사람의 풀기
+
+[문자열을 배열로 변환](https://www.delftstack.com/ko/howto/javascript/convert-string-to-array-javascript/)
+
+```js
+function findShort(s){
+    return Math.min([...s].split(" ").map (s => s.length));
+}
+```
