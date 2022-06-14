@@ -32,6 +32,7 @@
 - [Return Negative](https://github.com/GitHWS/code-wars-solution/blob/main/Return_Negative.md)
 - [School Paperwork](https://github.com/GitHWS/code-wars-solution/blob/main/School_Paperwork.md)
 - [Coverted Clock to millisecond](https://github.com/GitHWS/code-wars-solution/blob/main/Clock.md)
+- [Returning Strings](https://github.com/GitHWS/code-wars-solution/blob/main/Returning_Strings.md)
 
 
 ### 7 kyu
