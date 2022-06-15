@@ -34,6 +34,7 @@
 - [Coverted Clock to millisecond](https://github.com/GitHWS/code-wars-solution/blob/main/Clock.md)
 - [Returning Strings](https://github.com/GitHWS/code-wars-solution/blob/main/Returning_Strings.md)
 - [String repeat](https://github.com/GitHWS/code-wars-solution/blob/main/String_repeat.md)
+- [MakeUpperCase](https://github.com/GitHWS/code-wars-solution/blob/main/MakeUpperCase.md)
 
 
 ### 7 kyu
