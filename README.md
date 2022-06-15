@@ -36,6 +36,7 @@
 - [String repeat](https://github.com/GitHWS/code-wars-solution/blob/main/String_repeat.md)
 - [MakeUpperCase](https://github.com/GitHWS/code-wars-solution/blob/main/MakeUpperCase.md)
 - [CalculateBMI](https://github.com/GitHWS/code-wars-solution/blob/main/CalculateBMI.md)
+- [Even or Odd](https://github.com/GitHWS/code-wars-solution/blob/main/Even_or_Odd.md)
 
 
 ### 7 kyu
