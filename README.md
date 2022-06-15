@@ -43,3 +43,4 @@
 - [Ones and Zeros](https://github.com/GitHWS/code-wars-solution/blob/main/Ones_and_Zeros.md)
 - [List Filtering](https://github.com/GitHWS/code-wars-solution/blob/main/List_Filtering.md)
 - [Shortest Word](https://github.com/GitHWS/code-wars-solution/blob/main/Shortest_Word.md)
+- [Disemvowel Trolls](https://github.com/GitHWS/code-wars-solution/blob/main/Disemvowel_Trolls.md)
