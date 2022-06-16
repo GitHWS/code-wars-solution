@@ -38,6 +38,7 @@
 - [CalculateBMI](https://github.com/GitHWS/code-wars-solution/blob/main/CalculateBMI.md)
 - [Even or Odd](https://github.com/GitHWS/code-wars-solution/blob/main/Even_or_Odd.md)
 - [Covert a String to a Number](https://github.com/GitHWS/code-wars-solution/blob/main/Convert_a_String_to_a_Number.md)
+- [Count by X](https://github.com/GitHWS/code-wars-solution/blob/main/Count_by_X.md)
 
 
 ### 7 kyu
