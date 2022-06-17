@@ -22,20 +22,24 @@ lovefunc(0,0) => false
 
 ### 첫번째 나의 시도
 
-> why? if문으로 우선 두개 중 하나만 홀수나 짝수가 되면 나머지 하나가 다른 것이 나오면 되기 때문에 처음에 짝수가 있는지 OR문으로 확인하고 있으면 다음 if문에서 홀수를 찾아 있다면 true를 반환하고 아니면 false를 반환한다.
+> why? if문으로 2로 나누었을 때 나머지의 값이 같을 경우 짝수나 홀수 결과만 있는 것이니 false, 아니면 true를 출력한다.
 
 ```js
 function lovefunc(flower1, flower2){
-  if(flower1 % 2 === 0 || flower2 % 2 ===0){
-    if(flower1 % 2 !== 0 || flower2 % 2 !== 0){
-      return true
+    if(flower1 % 2 === flower2 % 2){
+        return false
     }else{
-      return false
+        return true
     }
-  }
+}
+```
+
+```js
+function lovefunc(flower1, flower2){
+  return flower1 % 2 === flower2 % 2 ? false : true
 }
 ```
 - 결과
 
-![image](https://user-images.githubusercontent.com/96808980/174328376-981b1571-a530-4d8d-8a29-338f64121db8.png)
+![image](https://user-images.githubusercontent.com/96808980/174329664-c782f072-b2fd-41be-9ecc-582a88d6dfea.png)
 
