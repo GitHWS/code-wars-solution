@@ -39,6 +39,8 @@
 - [Even or Odd](https://github.com/GitHWS/code-wars-solution/blob/main/Even_or_Odd.md)
 - [Covert a String to a Number](https://github.com/GitHWS/code-wars-solution/blob/main/Convert_a_String_to_a_Number.md)
 - [Count by X](https://github.com/GitHWS/code-wars-solution/blob/main/Count_by_X.md)
+- [Opposites Attract](https://github.com/GitHWS/code-wars-solution/blob/main/Opposites_Attract.md)
+- [Area or Perimeter](https://github.com/GitHWS/code-wars-solution/blob/main/Area_or_Perimeter.md)
 
 
 ### 7 kyu
