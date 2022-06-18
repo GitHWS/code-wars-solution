@@ -41,6 +41,9 @@
 - [Count by X](https://github.com/GitHWS/code-wars-solution/blob/main/Count_by_X.md)
 - [Opposites Attract](https://github.com/GitHWS/code-wars-solution/blob/main/Opposites_Attract.md)
 - [Area or Perimeter](https://github.com/GitHWS/code-wars-solution/blob/main/Area_or_Perimeter.md)
+- [hello world!](https://github.com/GitHWS/code-wars-solution/blob/main/hello_world.md)
+- [Remove String Space](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_String_Spaces.md)
+- [Quarter of the year](https://github.com/GitHWS/code-wars-solution/blob/main/Quarter_of_the_year.md)
 
 
 ### 7 kyu
