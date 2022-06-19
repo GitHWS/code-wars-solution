@@ -44,6 +44,8 @@
 - [hello world!](https://github.com/GitHWS/code-wars-solution/blob/main/hello_world.md)
 - [Remove String Space](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_String_Spaces.md)
 - [Quarter of the year](https://github.com/GitHWS/code-wars-solution/blob/main/Quarter_of_the_year.md)
+- [Double Char](https://github.com/GitHWS/code-wars-solution/blob/main/Double_Char.md)
+
 
 
 ### 7 kyu
@@ -55,3 +57,4 @@
 - [Shortest Word](https://github.com/GitHWS/code-wars-solution/blob/main/Shortest_Word.md)
 - [Disemvowel Trolls](https://github.com/GitHWS/code-wars-solution/blob/main/Disemvowel_Trolls.md)
 - [Square Every Digit](https://github.com/GitHWS/code-wars-solution/blob/main/Square_Every_Digit.md)
+- [Reverse words](https://github.com/GitHWS/code-wars-solution/blob/main/Reverse_words.md)
