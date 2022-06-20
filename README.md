@@ -47,6 +47,7 @@
 - [Double Char](https://github.com/GitHWS/code-wars-solution/blob/main/Double_Char.md)
 - [Counting sheep](https://github.com/GitHWS/code-wars-solution/blob/main/Counting_sheep.md)
 - [Is he gonna survive?](https://github.com/GitHWS/code-wars-solution/blob/main/Is_he_gonna_survive%3F.md)
+- [Remove exclamation marks](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_exclamation_marks.md)
 
 
 
