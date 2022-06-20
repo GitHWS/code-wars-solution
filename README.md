@@ -45,6 +45,8 @@
 - [Remove String Space](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_String_Spaces.md)
 - [Quarter of the year](https://github.com/GitHWS/code-wars-solution/blob/main/Quarter_of_the_year.md)
 - [Double Char](https://github.com/GitHWS/code-wars-solution/blob/main/Double_Char.md)
+- [Counting sheep](https://github.com/GitHWS/code-wars-solution/blob/main/Counting_sheep.md)
+- [Is he gonna survive?](https://github.com/GitHWS/code-wars-solution/blob/main/Is_he_gonna_survive%3F.md)
 
 
 
@@ -58,3 +60,4 @@
 - [Disemvowel Trolls](https://github.com/GitHWS/code-wars-solution/blob/main/Disemvowel_Trolls.md)
 - [Square Every Digit](https://github.com/GitHWS/code-wars-solution/blob/main/Square_Every_Digit.md)
 - [Reverse words](https://github.com/GitHWS/code-wars-solution/blob/main/Reverse_words.md)
+- [Binary Addition](https://github.com/GitHWS/code-wars-solution/blob/main/Binary_Addition.md)
