@@ -48,6 +48,7 @@
 - [Counting sheep](https://github.com/GitHWS/code-wars-solution/blob/main/Counting_sheep.md)
 - [Is he gonna survive?](https://github.com/GitHWS/code-wars-solution/blob/main/Is_he_gonna_survive%3F.md)
 - [Remove exclamation marks](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_exclamation_marks.md)
+- [You only need one](https://github.com/GitHWS/code-wars-solution/blob/main/You_only_need_one.md)
 
 
 
