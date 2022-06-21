@@ -63,3 +63,4 @@
 - [Square Every Digit](https://github.com/GitHWS/code-wars-solution/blob/main/Square_Every_Digit.md)
 - [Reverse words](https://github.com/GitHWS/code-wars-solution/blob/main/Reverse_words.md)
 - [Binary Addition](https://github.com/GitHWS/code-wars-solution/blob/main/Binary_Addition.md)
+- [Make a function that does arithemtic](https://github.com/GitHWS/code-wars-solution/blob/main/Make_a_function_that_does_arithmetic.md)
