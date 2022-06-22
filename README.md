@@ -49,7 +49,8 @@
 - [Is he gonna survive?](https://github.com/GitHWS/code-wars-solution/blob/main/Is_he_gonna_survive%3F.md)
 - [Remove exclamation marks](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_exclamation_marks.md)
 - [You only need one](https://github.com/GitHWS/code-wars-solution/blob/main/You_only_need_one.md)
-
+- [Parse nice int from char problem](https://github.com/GitHWS/code-wars-solution/blob/main/Parse_nice_int_from_char_problem.md)
+- [N-th Power](https://github.com/GitHWS/code-wars-solution/blob/main/N-th_Power.md)
 
 
 ### 7 kyu
@@ -64,3 +65,4 @@
 - [Reverse words](https://github.com/GitHWS/code-wars-solution/blob/main/Reverse_words.md)
 - [Binary Addition](https://github.com/GitHWS/code-wars-solution/blob/main/Binary_Addition.md)
 - [Make a function that does arithemtic](https://github.com/GitHWS/code-wars-solution/blob/main/Make_a_function_that_does_arithmetic.md)
+- [Descending Order](https://github.com/GitHWS/code-wars-solution/blob/main/Descending_Order.md)
