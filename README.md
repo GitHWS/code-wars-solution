@@ -51,7 +51,8 @@
 - [You only need one](https://github.com/GitHWS/code-wars-solution/blob/main/You_only_need_one.md)
 - [Parse nice int from char problem](https://github.com/GitHWS/code-wars-solution/blob/main/Parse_nice_int_from_char_problem.md)
 - [N-th Power](https://github.com/GitHWS/code-wars-solution/blob/main/N-th_Power.md)
-
+- [Traffic light](https://github.com/GitHWS/code-wars-solution/blob/main/Traffic_light.md)
+- [Grade book](https://github.com/GitHWS/code-wars-solution/blob/main/Grade_book.md)
 
 ### 7 kyu
 
@@ -66,3 +67,4 @@
 - [Binary Addition](https://github.com/GitHWS/code-wars-solution/blob/main/Binary_Addition.md)
 - [Make a function that does arithemtic](https://github.com/GitHWS/code-wars-solution/blob/main/Make_a_function_that_does_arithmetic.md)
 - [Descending Order](https://github.com/GitHWS/code-wars-solution/blob/main/Descending_Order.md)
+- [Find the capitals](https://github.com/GitHWS/code-wars-solution/blob/main/Find_the_capitals.md)
