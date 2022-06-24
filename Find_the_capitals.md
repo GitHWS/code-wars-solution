@@ -31,5 +31,7 @@ var capitals = function (word) {
   return arr;
 };
 ```
+
 - 결과
+
 ![image](https://user-images.githubusercontent.com/96808980/175563423-9c350b15-52ec-45dc-a277-b47478b1d3ca.png)
