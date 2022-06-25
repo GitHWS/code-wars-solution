@@ -53,6 +53,10 @@
 - [N-th Power](https://github.com/GitHWS/code-wars-solution/blob/main/N-th_Power.md)
 - [Traffic light](https://github.com/GitHWS/code-wars-solution/blob/main/Traffic_light.md)
 - [Grade book](https://github.com/GitHWS/code-wars-solution/blob/main/Grade_book.md)
+- [Find the smallest integer in the array](https://github.com/GitHWS/code-wars-solution/blob/main/Find_the_smallest_integer_in_the_array.md)
+- [Filling an array part1](https://github.com/GitHWS/code-wars-solution/blob/main/Filling_an_array_pt1.md)
+
+
 
 ### 7 kyu
 
