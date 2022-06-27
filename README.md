@@ -55,6 +55,7 @@
 - [Grade book](https://github.com/GitHWS/code-wars-solution/blob/main/Grade_book.md)
 - [Find the smallest integer in the array](https://github.com/GitHWS/code-wars-solution/blob/main/Find_the_smallest_integer_in_the_array.md)
 - [Filling an array part1](https://github.com/GitHWS/code-wars-solution/blob/main/Filling_an_array_pt1.md)
+- [Messi Goals](https://github.com/GitHWS/code-wars-solution/blob/main/Messi_Goals.md)
 
 
 
